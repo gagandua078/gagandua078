@@ -16,7 +16,7 @@
     </a>
     <!-- Website -->
     <a href="https://thegdsks.com">
-        <img src="https://img.shields.io/badge/-Website-%231572B6?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website"/>
+        <img src="https://www.glincker.com/assets/images/logo/glinweb_light.svg" alt="GLINCKER"/>
     </a>
 </p>
 
@@ -43,7 +43,7 @@
     <div style="width: 45%;">
         <h3>💻 Projects</h3>
         <p>
-        From innovative web applications to automation tools, my projects reflect my passion for creating solutions that make a difference. Check them out <a href="https://github.com/gdsks?tab=repositories">here</a>!
+        From innovative web applications to automation tools, my projects reflect my passion for creating solutions that make a difference. Check them out <a href="https://github.com/gagandua078?tab=repositories">here</a>!
         </p>
         <h3>⚡ Fun Fact</h3>
         <p>
