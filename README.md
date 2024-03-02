@@ -16,8 +16,9 @@
     </a>
     <!-- Website -->
     <a href="https://thegdsks.com">
-        <img src="https://www.glincker.com/assets/images/logo/glinweb_dark.svg" height="20px" alt="GLINCKER"/>
-    </a>
+    <img src="https://www.glincker.com/assets/images/logo/glinweb_dark.svg" alt="Website" style="height: 40px; width: 40px;"/>
+</a>
+
 </p>
 
 <p align="center">
