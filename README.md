@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/C5616AQEQDEg3URnK_A/profile-displaybackgroundimage-shrink_350_1400/0/1659924618105?e=1714608000&v=beta&t=91NPydCBb-0Y0jG2uT1dLqalcTeYspducm7GkOxhqKg" alt="Banner">
+</p>
 <h1 align="center">Hi there, I'm <a href="https://thegdsks.com/" target="_blank">Gagan Deep Singh</a> 👋</h1>
 
 <p align="center">
